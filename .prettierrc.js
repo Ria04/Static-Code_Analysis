@@ -1,0 +1,13 @@
+module.exports = {
+	printWidth: 80,
+	tabWidth: 2,
+	useTabs: true,
+	semi: true,
+	singleQuote: true,
+	trailingComma: 'none',
+	bracketSpacing: true,
+	'newline-before-return': true,
+	'no-duplicate-variable': [true, 'check-parameters'],
+	'no-var-keyword': true,
+	arrowParens: 'avoid'
+};
